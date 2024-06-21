@@ -10,6 +10,7 @@
 - [React Query](https://tanstack.com/query/latest)
 - [React Hook Form](https://react-hook-form.com/)
 - [React Router Loader](https://reactrouter.com/en/main/route/loader)
+- [Custom Hooks Package](https://streamich.github.io/react-use/?path=/story/components-usekey--demo)
 
 # Type Checking
 
